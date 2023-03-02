@@ -3,9 +3,11 @@
 ## 1. Cd in to the correct directory
 
 ## 2. run this in your terminal: 
+<i> 
 '''
-$ g++ <program-name>.cpp -o <program-name>
+$ g++ program-name.cpp -o program-name
 '''
+</i>
 --------------------------------------
 
 ## Explainations:
