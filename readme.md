@@ -46,10 +46,14 @@ When all 9 squares are full, the game is over.
 **Description**: This is a simple casino game that allows the player to play as a guest. The program will take the first deposit and wait for the player to increase their bet or not. The program ends when you lose all your money.
 
 **Development**:
-This game has 3 files: "Cards.hpp" & "Player.hpp" & "main.cpp"
+This game has 3 files: "Cards.hpp" & "Player.hpp" & "main.cpp".
+
 "main.cpp" will inherit from "Cards.hpp" & "Player.hpp"
+
 "Cards.hpp" is used to create cards
+
 "Player.hpp" is used to store the player name, initial balance or current balance after each turn.
+
 "main.cpp" is the main class that includes: Calculating, asking for the player's name, giving the player options to play, giving the final feedback to the player.
 
 **You can run this casino game with**:
