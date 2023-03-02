@@ -3,9 +3,9 @@
 ## 1. Cd in to the correct directory
 
 ## 2. run this in your terminal: 
-'''
+```
 $ g++ program-name.cpp -o program-name
-'''
+```
 
 --------------------------------------
 
@@ -54,9 +54,9 @@ This game has 3 files: "Cards.hpp" & "Player.hpp" & "main.cpp"
 
 **You can run this casino game with**:
 
-'''
+```
 g++ main.cpp -o main
-'''
+```
 
 
 ------------------------------THE END-------------------------------------------------------------------------------
